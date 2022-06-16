@@ -25,3 +25,8 @@ Cсылка на [Colab](https://colab.research.google.com/drive/134thpDhefe7tMp
 
 
 <img width="730" alt="Screenshot 2022-06-15 at 23 10 42" src="https://user-images.githubusercontent.com/57996343/173918091-90162984-1b08-4e64-b673-ea7531206cdd.png">
+
+
+## 3) Информация по полученным гомологичным кластерам
+
+Всего кластеров: 
