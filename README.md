@@ -2,7 +2,7 @@
 
 # Отчёт:
 
-Cсылка на [Colab](https://colab.research.google.com/drive/134thpDhefe7tMpzS4vw9B4ITQPhNNcL5?usp=sharing)
+Cсылка на [Colab](https://colab.research.google.com/drive/14TCmO1bf1ZrzgHraaVSzhe22rdZqvtzK?usp=sharing)
 
 ## 1) Таблица с данными по 5 геномам: (пока не сделано!)
 
