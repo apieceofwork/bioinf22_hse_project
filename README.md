@@ -35,7 +35,7 @@ Cсылка на [Colab](https://colab.research.google.com/drive/14TCmO1bf1ZrzgH
 <img width="753" alt="Screenshot 2022-06-17 at 12 34 21" src="https://user-images.githubusercontent.com/57996343/174271534-2d307b31-bf5f-4719-9348-c3b1328b101d.png">
 
 
-
+-
 
 ## 3)Таблица с информацией по выбранным кластерам (сколько генов в кластере, функция этих генов, расположение Z-DNA относительно этих генов, Z-DNA score) - не более 10 шт (пока не сделано!)
 
