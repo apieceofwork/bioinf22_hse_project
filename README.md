@@ -87,6 +87,30 @@ Name | number of sites with zh-score > 500 | overall_seq_length | z-dna predicte
 
 ## 3)Таблица с информацией по выбранным кластерам 
 
+Полную версию таблицы (по всем кластерам) можно увидеть в колабе, здесь я опишу только 2 кластера: 1 и 2.
+Вся информация про zh-score также находится в колабе
+
+Были выбраны кластеры следующим образом: столбцы в таблице "species" и "genes" имели одинаковое значение 5 - 5 генов
+
+Cluster name | Species | product assession | Name | function 
+--- | --- | --- | --- | ---
+1 | mexicana | CBZ23038.1 | conserved hypothetical protein | 
+1 | tarentolae | GET85409.1 | 
+1 | orientalis | KAG5488274.1 | 
+1 | sp. Ghana | KAG5512549.1 | 
+1 | sp. Namibia | KAG5508672.1 | 
+2 | mexicana | CBZ23037.1
+2 | tarentolae | GET85408.1
+2 | orientalis | KAG5488273.1
+2 | orientalis | KAG5512548.1
+2 | orientalis | KAG5508671.1
+
+
+
+
+
+
+
 ## 4) Множественное белковое выравнивание для каждого выбранного кластера 
 
 Выравнивание выполнялось на [сайте:](https://www.ebi.ac.uk/Tools/msa/clustalo/)
