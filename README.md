@@ -96,7 +96,7 @@ Name | number of sites with zh-score > 500 | overall_seq_length | z-dna predicte
 
 ## 5) Визуализация расположения участков Z-DNA для каждого выбранного кластера
 
-**Кластер №1
+**Кластер №1**
 
 <img width="491" alt="Screenshot 2022-06-18 at 22 11 09" src="https://user-images.githubusercontent.com/57996343/174453066-86b18c99-a88e-4116-9f57-45b894b8b20f.png">
 
@@ -110,7 +110,7 @@ Name | number of sites with zh-score > 500 | overall_seq_length | z-dna predicte
 <img width="491" alt="Screenshot 2022-06-18 at 22 10 57" src="https://user-images.githubusercontent.com/57996343/174453101-60fff4c2-b886-4e79-99a8-258dd3d8173a.png">
 
 
-**Кластер №2
+**Кластер №2**
 
 <img width="491" alt="Screenshot 2022-06-18 at 22 14 51" src="https://user-images.githubusercontent.com/57996343/174453178-73381fe7-aae4-4b37-b9b0-aeb9e0e176ac.png">
 
@@ -122,7 +122,7 @@ Name | number of sites with zh-score > 500 | overall_seq_length | z-dna predicte
 
 <img width="491" alt="Screenshot 2022-06-18 at 22 15 20" src="https://user-images.githubusercontent.com/57996343/174453205-1746d662-e014-448f-9c94-d365d24ee3f6.png">
 
-**Кластер №3
+**Кластер №3**
 
 <img width="491" alt="Screenshot 2022-06-18 at 22 23 51" src="https://user-images.githubusercontent.com/57996343/174454420-38c28fea-6c25-4bae-a988-ef2e1b5c98b1.png">
 
@@ -134,7 +134,7 @@ Name | number of sites with zh-score > 500 | overall_seq_length | z-dna predicte
 
 <img width="491" alt="Screenshot 2022-06-18 at 22 24 15" src="https://user-images.githubusercontent.com/57996343/174454448-ea8238bf-e326-43a9-ba61-15495a6edecb.png">
 
-**Кластер №4
+**Кластер №4**
 
 <img width="491" alt="Screenshot 2022-06-18 at 22 26 28" src="https://user-images.githubusercontent.com/57996343/174454508-d526ac15-b76f-4509-9c26-f949ee75f297.png">
 
@@ -145,4 +145,18 @@ Name | number of sites with zh-score > 500 | overall_seq_length | z-dna predicte
 <img width="491" alt="Screenshot 2022-06-18 at 22 26 20" src="https://user-images.githubusercontent.com/57996343/174454526-4f7e83c0-bd0b-48bd-8260-928c14bd2862.png">
 
 <img width="491" alt="Screenshot 2022-06-18 at 22 26 11" src="https://user-images.githubusercontent.com/57996343/174454534-e64f65bf-f96f-49e0-8780-4faef58f2d4e.png">
+
+**Кластер №5**
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 30 11" src="https://user-images.githubusercontent.com/57996343/174454608-8891cad2-74f9-4fae-8bb9-22a4a8990597.png">
+
+<img width="497" alt="Screenshot 2022-06-18 at 22 30 03" src="https://user-images.githubusercontent.com/57996343/174454613-7329fe1d-8fba-4a30-abb0-74dbbe36e87d.png">
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 29 55" src="https://user-images.githubusercontent.com/57996343/174454617-d009fc4d-b35f-4b49-8cc6-512ba5acc7c2.png">
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 29 36" src="https://user-images.githubusercontent.com/57996343/174454621-df40a818-6831-42c0-8df6-a8910d65df66.png">
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 29 46" src="https://user-images.githubusercontent.com/57996343/174454624-24bcac8b-c562-44a4-a834-a786e42f3a60.png">
+
+
 
