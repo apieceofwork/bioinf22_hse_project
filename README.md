@@ -122,7 +122,7 @@ Name | number of sites with zh-score > 500 | overall_seq_length | z-dna predicte
 
 <img width="491" alt="Screenshot 2022-06-18 at 22 15 20" src="https://user-images.githubusercontent.com/57996343/174453205-1746d662-e014-448f-9c94-d365d24ee3f6.png">
 
-**Кластер №3*
+**Кластер №3
 
 <img width="491" alt="Screenshot 2022-06-18 at 22 23 51" src="https://user-images.githubusercontent.com/57996343/174454420-38c28fea-6c25-4bae-a988-ef2e1b5c98b1.png">
 
@@ -133,4 +133,16 @@ Name | number of sites with zh-score > 500 | overall_seq_length | z-dna predicte
 <img width="491" alt="Screenshot 2022-06-18 at 22 24 07" src="https://user-images.githubusercontent.com/57996343/174454437-1cac1b35-68b9-4a1b-8023-7b65538ee0d7.png">
 
 <img width="491" alt="Screenshot 2022-06-18 at 22 24 15" src="https://user-images.githubusercontent.com/57996343/174454448-ea8238bf-e326-43a9-ba61-15495a6edecb.png">
+
+**Кластер №4
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 26 28" src="https://user-images.githubusercontent.com/57996343/174454508-d526ac15-b76f-4509-9c26-f949ee75f297.png">
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 26 35" src="https://user-images.githubusercontent.com/57996343/174454515-ef4c13b7-5715-416e-9cc0-7512329a7b56.png">
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 26 44" src="https://user-images.githubusercontent.com/57996343/174454522-4f17b193-d0d2-4843-b91f-73a83a23a395.png">
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 26 20" src="https://user-images.githubusercontent.com/57996343/174454526-4f7e83c0-bd0b-48bd-8260-928c14bd2862.png">
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 26 11" src="https://user-images.githubusercontent.com/57996343/174454534-e64f65bf-f96f-49e0-8780-4faef58f2d4e.png">
 
