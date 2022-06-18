@@ -98,15 +98,15 @@ Name | number of sites with zh-score > 500 | overall_seq_length | z-dna predicte
 Cluster name | Species | protein_id | Name | function 
 --- | --- | --- | --- | ---
 1 | mexicana | CBZ23038.1 | conserved hypothetical protein | function not determined
-1 | tarentolae | GET85409.1 | surface antigen-like protein | the proteins that are embedded in the cell membrane provide a distinctive identity to the cell
+1 | tarentolae | GET85409.1 | surface antigen-like protein | the proteins that are embedded in the cell membrane providing a distinctive identity to the cell
 1 | orientalis | KAG5488274.1 | hypothetical protein | the proteins predicted to be expressed from an open reading frame, making a substantial fraction of proteomes in both prokaryotes and eukaryotes
 1 | sp. Ghana | KAG5512549.1 | hypothetical protein | the proteins predicted to be expressed from an open reading frame, making a substantial fraction of proteomes in both prokaryotes and eukaryotes
 1 | sp. Namibia | KAG5508672.1 | hypothetical protein | the proteins predicted to be expressed from an open reading frame, making a substantial fraction of proteomes in both prokaryotes and eukaryotes
 2 | mexicana | CBZ23037.1 | conserved hypothetical protein | function not determined
-2 | tarentolae | GET85408.1 | surface antigen-like protein | the proteins that are embedded in the cell membrane provide a distinctive identity to the cell
-2 | orientalis | KAG5488273.1 | the proteins predicted to be expressed from an open reading frame, making a substantial fraction of proteomes in both prokaryotes and eukaryotes
+2 | tarentolae | GET85408.1 | surface antigen-like protein | the proteins that are embedded in the cell membrane providing a distinctive identity to the cell
+2 | orientalis | KAG5488273.1 | hypothetical protein | the proteins predicted to be expressed from an open reading frame, making a substantial fraction of proteomes in both prokaryotes and eukaryotes
 2 | sp. Ghana | KAG5512548.1 | hypothetical protein | the proteins predicted to be expressed from an open reading frame, making a substantial fraction of proteomes in both prokaryotes and eukaryotes
-2 | sp. Namibia | KAG5508671.1 | the proteins predicted to be expressed from an open reading frame, making a substantial fraction of proteomes in both prokaryotes and eukaryotes
+2 | sp. Namibia | KAG5508671.1 | hypothetical protein | the proteins predicted to be expressed from an open reading frame, making a substantial fraction of proteomes in both prokaryotes and eukaryotes
 
 
 ## 4) Множественное белковое выравнивание для каждого выбранного кластера 
