@@ -1,6 +1,6 @@
 # Отчёт:
 
-Cсылка на [Colab](https://colab.research.google.com/drive/14TCmO1bf1ZrzgHraaVSzhe22rdZqvtzK?usp=sharing)
+Cсылка на [Colab](https://colab.research.google.com/drive/1qeM2XAs3un_a_sAWs7fR3jrOky-4iCka?usp=sharing)
 
 ## 1) Анализ выбранных геномов
 
