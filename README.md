@@ -96,4 +96,19 @@ Name | number of sites with zh-score > 500 | overall_seq_length | z-dna predicte
 
 ## 5) Визуализация расположения участков Z-DNA для каждого выбранного кластера
 
+Кластер №1
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 11 09" src="https://user-images.githubusercontent.com/57996343/174453066-86b18c99-a88e-4116-9f57-45b894b8b20f.png">
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 10 25" src="https://user-images.githubusercontent.com/57996343/174453085-5978460c-daaa-40e8-bbce-d1ed7f56f984.png">
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 10 46" src="https://user-images.githubusercontent.com/57996343/174453086-44c69bbb-1bdd-4937-9bda-9cffe81bc70c.png">
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 10 08" src="https://user-images.githubusercontent.com/57996343/174453094-984e25e0-8b7e-4c2f-8f2a-1d87a097308a.png">
+
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 10 57" src="https://user-images.githubusercontent.com/57996343/174453101-60fff4c2-b886-4e79-99a8-258dd3d8173a.png">
+
+
+
 
