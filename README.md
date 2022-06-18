@@ -96,7 +96,7 @@ Name | number of sites with zh-score > 500 | overall_seq_length | z-dna predicte
 
 ## 5) Визуализация расположения участков Z-DNA для каждого выбранного кластера
 
-*Кластер №1*
+**Кластер №1
 
 <img width="491" alt="Screenshot 2022-06-18 at 22 11 09" src="https://user-images.githubusercontent.com/57996343/174453066-86b18c99-a88e-4116-9f57-45b894b8b20f.png">
 
@@ -110,7 +110,7 @@ Name | number of sites with zh-score > 500 | overall_seq_length | z-dna predicte
 <img width="491" alt="Screenshot 2022-06-18 at 22 10 57" src="https://user-images.githubusercontent.com/57996343/174453101-60fff4c2-b886-4e79-99a8-258dd3d8173a.png">
 
 
-*Кластер №2*
+**Кластер №2
 
 <img width="491" alt="Screenshot 2022-06-18 at 22 14 51" src="https://user-images.githubusercontent.com/57996343/174453178-73381fe7-aae4-4b37-b9b0-aeb9e0e176ac.png">
 
@@ -122,4 +122,15 @@ Name | number of sites with zh-score > 500 | overall_seq_length | z-dna predicte
 
 <img width="491" alt="Screenshot 2022-06-18 at 22 15 20" src="https://user-images.githubusercontent.com/57996343/174453205-1746d662-e014-448f-9c94-d365d24ee3f6.png">
 
-*Кластер №3*
+**Кластер №3*
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 23 51" src="https://user-images.githubusercontent.com/57996343/174454420-38c28fea-6c25-4bae-a988-ef2e1b5c98b1.png">
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 23 40" src="https://user-images.githubusercontent.com/57996343/174454427-5750dd9a-8c3e-4f03-9f00-bad4cf4056a9.png">
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 23 59" src="https://user-images.githubusercontent.com/57996343/174454436-2660848d-b078-41f1-8fe0-f9bd053cf818.png">
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 24 07" src="https://user-images.githubusercontent.com/57996343/174454437-1cac1b35-68b9-4a1b-8023-7b65538ee0d7.png">
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 24 15" src="https://user-images.githubusercontent.com/57996343/174454448-ea8238bf-e326-43a9-ba61-15495a6edecb.png">
+
