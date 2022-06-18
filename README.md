@@ -24,7 +24,7 @@ Name | Level |  Scaffolds number | GC content
 
 <img width="827" alt="Screenshot 2022-06-17 at 15 23 17" src="https://user-images.githubusercontent.com/57996343/174297401-602ef567-005d-4b30-911b-d8d88a497624.png">
 
-# Предсказываем z-dna с помощью z-hunt
+## Предсказываем z-dna с помощью z-hunt
 
 Name | number of sites with zh-score > 500 | overall_seq_length | z-dna predicted sites number
 |---|---|---|---
