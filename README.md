@@ -96,6 +96,8 @@ Name | number of sites with zh-score > 500 | overall_seq_length | z-dna predicte
 
 ## 5) Визуализация расположения участков Z-DNA для каждого выбранного кластера
 
+Названия генов на картинках: gene + LOCUS, последний берется из gbff файлов: locus определяет к какому геному принадлежит ген
+
 **Кластер №1**
 
 <img width="491" alt="Screenshot 2022-06-18 at 22 11 09" src="https://user-images.githubusercontent.com/57996343/174453066-86b18c99-a88e-4116-9f57-45b894b8b20f.png">
