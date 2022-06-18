@@ -158,5 +158,68 @@ Name | number of sites with zh-score > 500 | overall_seq_length | z-dna predicte
 
 <img width="491" alt="Screenshot 2022-06-18 at 22 29 46" src="https://user-images.githubusercontent.com/57996343/174454624-24bcac8b-c562-44a4-a834-a786e42f3a60.png">
 
+**Кластер №6**
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 30 11" src="https://user-images.githubusercontent.com/57996343/174454673-5c8bf778-c2d3-469b-8dc6-f76a5438e3b5.png">
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 30 03" src="https://user-images.githubusercontent.com/57996343/174454675-7ba14421-7bbc-4b76-9bd7-c7b6d09b5559.png">
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 29 55" src="https://user-images.githubusercontent.com/57996343/174454677-2155b054-e502-4a0b-a8ad-107f840da541.png">
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 29 36" src="https://user-images.githubusercontent.com/57996343/174454678-4f868a1e-aaa3-4b70-89e2-013c45cfd92e.png">
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 29 46" src="https://user-images.githubusercontent.com/57996343/174454682-e6e76de7-0244-4bb1-80ff-f65fd130c7cc.png">
+
+**Кластер №7**
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 35 55" src="https://user-images.githubusercontent.com/57996343/174454717-f998e37c-1a83-431f-b1c2-06f894953204.png">
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 35 46" src="https://user-images.githubusercontent.com/57996343/174454722-0b35b7c1-bd11-432f-95d5-8461c378f534.png">
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 35 37" src="https://user-images.githubusercontent.com/57996343/174454727-874847e7-6f49-4da2-9032-49048676d0ac.png">
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 35 30" src="https://user-images.githubusercontent.com/57996343/174454733-79075f87-98c3-4ce2-8a86-e15ee19916b8.png">
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 35 21" src="https://user-images.githubusercontent.com/57996343/174454736-1a660ae8-8d6a-4108-954b-04d61a06006e.png">
+
+**Кластер №8**
+
+Первые две картинки слишком большие, чтобы сделать нормальный скрин, поэтому я их загрузила, а не заскринила -> фон другой
+
+![Unknown-3 copy](https://user-images.githubusercontent.com/57996343/174454882-646d857b-e35a-4afd-b69a-8d75727de850.png)
+
+
+![Unknown-3](https://user-images.githubusercontent.com/57996343/174454885-642c83a9-30a4-4b22-b053-bf4fc8f8546c.png)
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 39 16" src="https://user-images.githubusercontent.com/57996343/174454854-ee5afdc0-1c77-4a78-9a0d-0c5f23b727f5.png">
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 39 34" src="https://user-images.githubusercontent.com/57996343/174454860-4ac32deb-9165-418f-bfd9-4cb1996252a1.png">
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 39 07" src="https://user-images.githubusercontent.com/57996343/174454870-dffec6e1-e031-4af7-8bcf-2a887cf6e805.png">
+
+
+**Кластер №9**
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 43 48" src="https://user-images.githubusercontent.com/57996343/174454958-55b3bfe6-af77-4723-9684-99402eead7b9.png">
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 44 02" src="https://user-images.githubusercontent.com/57996343/174454959-d31ea46b-4a14-456e-b870-a569774a90d4.png">
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 43 54" src="https://user-images.githubusercontent.com/57996343/174454962-3c25f272-7bed-4a2f-b14f-de3e4feb9923.png">
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 43 40" src="https://user-images.githubusercontent.com/57996343/174454966-82d8dca6-e8b5-4062-b67d-46ec73b1af45.png">
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 43 32" src="https://user-images.githubusercontent.com/57996343/174454968-98cd7529-f719-4d62-b8ce-5a2e55942a8f.png">
+
+**Кластер №10**
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 45 53" src="https://user-images.githubusercontent.com/57996343/174455008-9b65b3e8-97ba-41c8-acb0-8e6fd90a0779.png">
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 45 47" src="https://user-images.githubusercontent.com/57996343/174455012-06c0b9ce-b67b-49ab-8b62-7c82a5436440.png">
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 45 40" src="https://user-images.githubusercontent.com/57996343/174455015-5d05dda0-c703-462c-9e6e-b9a9749a338f.png">
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 45 32" src="https://user-images.githubusercontent.com/57996343/174455018-c7723e76-e555-4050-9495-4c0141ad6cf2.png">
+
+<img width="491" alt="Screenshot 2022-06-18 at 22 45 24" src="https://user-images.githubusercontent.com/57996343/174455020-ac2a8b86-c0c0-4a90-aac2-264707166331.png">
 
 
